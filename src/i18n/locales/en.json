@@ -4,11 +4,11 @@
     "en": "EN"
   },
   "nav": {
-    "support": "Website support",
-    "tariffs": "Pricing",
-    "cases": "Our work",
-    "reviews": "Reviews",
-    "contacts": "Contacts"
+    "support": "Website Support",
+    "tariffs": "Plans & Pricing",
+    "cases": "Our Work",
+    "reviews": "Testimonials",
+    "contacts": "Contact"
   },
   "header": {
     "openMenu": "Open menu",
@@ -19,78 +19,78 @@
     "contact": "Contact us"
   },
   "hero": {
-    "title": "Drupal\nwebsite support",
-    "subtitle": "Maintenance and support for Drupal CMS websites\nof any version and condition",
+    "title": "Drupal\nWebsite Support",
+    "subtitle": "Maintenance and support for Drupal websites\nof any version and complexity",
     "actions": {
-      "tariffs": "Pricing"
+      "tariffs": "View Plans"
     },
     "stats": {
-      "s1": "Top Drupal developer\nin Russia according to\nRunet Rating",
-      "s2": "Average specialist experience:\n3+ years",
-      "s3": "years of Drupal\nexperience",
-      "s4": "modules and themes\nin DrupalGive format",
-      "s5": "hours of Drupal\nwebsite support",
-      "s6": "Projects\nunder support"
+      "s1": "Top Drupal Developer\nin Russia by\nRunet Rating",
+      "s2": "Average Team Experience:\n3+ years",
+      "s3": "Years of Drupal\nexpertise",
+      "s4": "Modules & Themes\nin DrupalGive",
+      "s5": "Hours of Drupal\nSupport",
+      "s6": "Projects\nin Support"
     }
   },
   "support": {
-    "title": "13 years of improving\nDrupal support\nexpertise!",
-    "subtitle": "We develop and optimize modules, extend website functionality and refresh design",
+    "title": "13 Years Perfecting\nOur Drupal Support\nExpertise!",
+    "subtitle": "We develop and optimize modules, expand functionality, and refresh designs",
     "items": {
-      "i1": "Adding information\nto the website,\ncreating new\nsections",
-      "i2": "Development\nand optimization\nof website modules",
-      "i3": "Integration with CRM,\n1C, payment systems\nand any web services",
-      "i4": "Any improvements\nto functionality\nand design",
-      "i5": "Security audit\nand monitoring\nfor Drupal websites",
-      "i6": "Migration, content import\nand Drupal upgrades",
-      "i7": "Optimization\nand acceleration\nof Drupal websites",
-      "i8": "Web marketing,\nconsulting\nand SEO work"
+      "i1": "Adding content\nand creating\nnew website sections",
+      "i2": "Module Development\n& Optimization",
+      "i3": "Integrations with CRM,\n1C, payment systems,\nand other services",
+      "i4": "Any improvements\nto design\nand functionality",
+      "i5": "Security Audits &\nDrupal Monitoring",
+      "i6": "Migration, content import,\nand Drupal upgrades",
+      "i7": "Performance\nOptimization &\nSpeed Boost",
+      "i8": "Web Marketing,\nConsulting &\nSEO"
     }
   },
   "supportExperience": {
-    "title": "Support\nby Drupal-coder",
-    "expertiseTitle": "Drupal expertise,\n14 years of experience!",
+    "title": "Support by\nDrupal-Coder",
+    "expertiseTitle": "14 Years of\nDrupal Expertise!",
     "expertisePoints": {
-      "p1": "System approach only — version control, backups and testing!",
-      "p2": "Drupal only:\nwe don’t support\nother CMS platforms!"
+      "p1": "Strictly systematic approach — version control, backups, and testing!",
+      "p2": "Drupal only:\nWe focus exclusively\non this CMS!"
     },
     "cards": {
       "c1": {
-        "title": "Task requests via email",
-        "text": "A familiar workflow:\ntasks are recorded\nand never get lost."
+        "title": "Tasks via Email",
+        "text": "A familiar workflow:\nTasks are logged and\nnever get lost."
       },
       "c2": {
-        "title": "Helpdesk system:\nreports,\ntransparency",
-        "text": "View active requests\nand spent hours\nin your personal account\nright in the browser."
+        "title": "Helpdesk: Transparency\n& Reporting",
+        "text": "Track active requests\nand hours spent\nin your personal dashboard."
       },
       "c3": {
-        "title": "Extended\ntechnical support",
-        "text": "Extended support hours\nfrom 6:00 to 22:00,\n7 days a week."
+        "title": "Extended\nSupport Hours",
+        "text": "Support is available\nfrom 6:00 to 22:00,\n7 days a week."
       },
       "c4": {
-        "title": "Dedicated\nproject manager",
-        "text": "Your manager is always\nup to date and ready\nto answer questions\nat any time."
+        "title": "Dedicated\nProject Manager",
+        "text": "Your manager is always\nin the loop and ready\nto answer questions."
       },
       "c5": {
-        "title": "Convenient payment options",
-        "text": "Bank transfer under contract\nor e-money:\nWebMoney, YooMoney,\nPayPal."
+        "title": "Flexible Payment",
+        "text": "Bank transfer (contract)\nor e-payments:\nWebMoney, YooMoney,\nPayPal."
       },
       "c6": {
-        "title": "SLA\nand NDA",
-        "text": "Work under confidentiality\nand quality level agreements."
+        "title": "SLA & NDA",
+        "text": "Formal agreements for\nconfidentiality and\nquality of service."
       },
       "c7": {
-        "title": "In‑house\nspecialists",
-        "text": "Reliable in‑house team —\nno freelancers."
+        "title": "In-House\nSpecialists",
+        "text": "A reliable in-house team —\nno freelancers."
       },
       "c8": {
-        "title": "Convenient\ncommunication channels",
-        "text": "Consulting via phone,\nSkype and messengers."
+        "title": "Convenient\nCommunication",
+        "text": "Consultations via phone,\nSkype, or messengers."
       }
     }
   },
   "tariffs": {
-    "title": "Pricing",
+    "title": "Plans & Pricing",
     "cards": {
       "basic": {
         "name": "Starter",
@@ -100,9 +100,9 @@
           "f2": "SEO consulting and tasks",
           "f3": "Designer services",
           "f4": "Standard response time",
-          "f5": "Unused paid hours roll over to the next month"
+          "f5": "Unused paid hours carry over"
         },
-        "button": "Leave a request!"
+        "button": "Get Started!"
       },
       "business": {
         "name": "Business",
@@ -111,10 +111,10 @@
           "f1": "Prepayment from 10 hours",
           "f2": "SEO consulting and tasks",
           "f3": "Designer services",
-          "f4": "Higher response time — up to 2 business days",
-          "f5": "Unused hours do not roll over"
+          "f4": "Priority response — within 2 business days",
+          "f5": "Unused hours expire monthly"
         },
-        "button": "Leave a request!"
+        "button": "Get Started!"
       },
       "vip": {
         "name": "VIP",
@@ -123,63 +123,63 @@
           "f1": "Prepayment from 100 hours",
           "f2": "SEO consulting and tasks",
           "f3": "Designer services",
-          "f4": "Maximum response time — same day",
-          "f5": "Unused hours do not roll over"
+          "f4": "Maximum priority — same-day response",
+          "f5": "Unused hours expire monthly"
         },
-        "button": "Leave a request!"
+        "button": "Get Started!"
       }
     },
     "footer": {
-      "line1": "Not sure which plan fits you?",
-      "line2": "Leave a request and we",
-      "line3": "will offer custom terms!",
-      "link": "get a custom plan"
+      "line1": "Not sure which plan is right?",
+      "line2": "Contact us and",
+      "line3": "we'll tailor a solution!",
+      "link": "Get a custom plan"
     }
   },
   "cases": {
-    "title": "Latest cases",
-    "showMore": "Show more",
-    "caseTitle": "YML export setup for Yandex.Market",
-    "caseDescription": "These words are quite true, yet the hypnotic riff keeps the pause‑filled groove."
+    "title": "Recent Work",
+    "showMore": "Show More",
+    "caseTitle": "YML Export Setup for Yandex.Market",
+    "caseDescription": "This description is a placeholder. The hypnotic riff perfectly complements the pause-filled groove."
   },
   "team": {
-    "title": "Team",
+    "title": "Our Team",
     "members": {
-      "m1": { "name": "Alyosha", "role": "Support lead, task planning" },
-      "m2": { "name": "Roman", "role": "Web project infrastructure" },
-      "m3": { "name": "Irina", "role": "Client success manager,\nservice delivery coordination" },
-      "m4": { "name": "Dasha", "role": "SEO, web marketing" },
-      "m5": { "name": "Sergey", "role": "CTO, 14 years of Drupal\nexperience" },
-      "m6": { "name": "Vadim", "role": "UX/UI design" }
+      "m1": { "name": "Alyosha", "role": "Support Lead, Task Planning" },
+      "m2": { "name": "Roman", "role": "Web Infrastructure" },
+      "m3": { "name": "Irina", "role": "Client Success Manager,\nService Coordination" },
+      "m4": { "name": "Dasha", "role": "SEO & Web Marketing" },
+      "m5": { "name": "Sergey", "role": "CTO, 14 years with Drupal" },
+      "m6": { "name": "Vadim", "role": "UX/UI Design" }
     }
   },
   "reviews": {
-    "title": "Reviews",
-    "ariaPrev": "Previous review",
-    "ariaNext": "Next review",
+    "title": "Testimonials",
+    "ariaPrev": "Previous testimonial",
+    "ariaNext": "Next testimonial",
     "items": {
       "winamp": {
-        "headline": "The Drupal Coder team left only positive impressions!",
-        "author": "Alexander Nureev, project manager, Winamp Russian Community"
+        "headline": "The Drupal Coder team left only a positive impression!",
+        "author": "Alexander Nureev, Project Manager, Winamp Russian Community"
       },
       "cableman": {
-        "headline": "They jumped in quickly and set up support with zero downtime.",
+        "headline": "They onboarded quickly and set up seamless support.",
         "author": "Anton Voronov, Head of Digital, Cableman"
       },
       "farbors": {
-        "headline": "They helped optimize Drupal and made the website twice as fast.",
+        "headline": "They optimized our Drupal site, making it twice as fast.",
         "author": "Valeria Dubovik, Marketing, Farbors"
       },
       "logo0": {
-        "headline": "Integrations are set up and core updates are fully covered.",
+        "headline": "Handled integrations and core updates comprehensively.",
         "author": "Dmitry Kozhevnikov, Product Owner"
       },
       "logo2": {
-        "headline": "Clear SLAs and transparent reporting — easy to work with.",
+        "headline": "Clear SLAs and transparent reporting — a pleasure to work with.",
         "author": "Irina Belova, Project Manager"
       },
       "estee": {
-        "headline": "Complex improvements delivered without stopping sales.",
+        "headline": "Delivered complex enhancements without disrupting sales.",
         "author": "Maria Plotnikova, eCommerce Lead"
       },
       "main": {
@@ -187,45 +187,45 @@
         "author": "Evgeny Samoilov, Marketing Director"
       },
       "lpcma": {
-        "headline": "A systematic approach to security and backups.",
+        "headline": "Systematic approach to security and backups.",
         "author": "Alexey Emelyanov, IT Manager, LPCMA"
       },
       "nashagazeta": {
-        "headline": "The Drupal website became faster and easier for the newsroom.",
+        "headline": "Made the Drupal site faster and more manageable for editors.",
         "author": "Tatyana Kolosova, Editor"
       }
     }
   },
   "partners": {
-    "title": "Trusted by",
-    "subtitle": "Dozens of companies trust us with the most valuable part of their online presence — their\nwebsites. We do everything to make our cooperation long‑term."
+    "title": "Trusted By",
+    "subtitle": "Dozens of companies trust us with their most valuable online asset — their website. We strive to build long-term partnerships."
   },
   "contact": {
-    "title": "Request website support",
-    "text": "Need urgent website support? Is your team overloaded or did the previous contractor fail?\nThen you’re in the right place. Leave a request and our manager will contact you!",
+    "title": "Request Website Support",
+    "text": "Need urgent support? Is your team overloaded or did a previous contractor leave you in a bind? You've come to the right place. Submit your request, and our manager will contact you!",
     "modal": {
-      "aria": "Contact us",
-      "title": "Contact us",
-      "subtitle": "Leave a request — we’ll get back to you.",
+      "aria": "Contact us modal",
+      "title": "Get in Touch",
+      "subtitle": "Leave your details — we'll get back to you soon.",
       "send": "Send",
       "close": "Close"
     },
     "form": {
       "placeholders": {
-        "name": "Your name",
-        "phone": "Phone",
-        "email": "E-mail",
-        "comment": "Your comment"
+        "name": "Your Name",
+        "phone": "Phone Number",
+        "email": "Email Address",
+        "comment": "Your Message"
       },
-      "submit": "Leave a request!",
+      "submit": "Submit Request!",
       "sending": "Sending…",
-      "success": "Request sent",
-      "consent": "By sending a request, I consent to the processing of my personal data",
+      "success": "Request sent successfully!",
+      "consent": "By submitting, I agree to the processing of my personal data.",
       "errors": {
         "nameRequired": "Please enter your name",
         "phoneInvalid": "Please enter a valid phone number",
-        "emailInvalid": "Please enter a valid e-mail",
-        "consentRequired": "Consent is required",
+        "emailInvalid": "Please enter a valid email address",
+        "consentRequired": "Consent is required to proceed",
         "submitFailed": "Submission failed. Please try again."
       }
     },
@@ -235,4 +235,3 @@
     }
   }
 }
-
